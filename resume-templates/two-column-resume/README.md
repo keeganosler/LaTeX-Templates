@@ -1,0 +1,1 @@
+This is a two-column resume most likely for use by junior software developers or junior data/research scientists.  This is why there are sections for languages, tools, projects and research.  I have included a bit of my own information for example purposes.
